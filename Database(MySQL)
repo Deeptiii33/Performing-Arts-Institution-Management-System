@@ -1,0 +1,4 @@
+For the SQL (Database connection use the following code)
+SELECT * FROM performing_arts.course;
+/* see the columns and create tables for each of them */
+Follow the same steps and you'll get the ouput
